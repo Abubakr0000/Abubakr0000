@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abubakr0000&show_icons=true&locale=en" alt="Abubakr0000" /></p>
 
-![gitartwork](gitartwork.svg)
+
+
+![gitartwork](https://github.com/Abubakr0000/Abubakr0000/blob/output/gitartwork.svg)
+ <!-- ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif) -->
