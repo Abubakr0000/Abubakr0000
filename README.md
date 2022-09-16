@@ -29,5 +29,5 @@
 
 
 
-![gitartwork](https://github.com/Abubakr0000/Abubakr0000/blob/output/gitartwork.svg)
+![gitartwork](https://github.com/Abubakr0000/Abubakr0000/gitartwork/output/gitartwork.svg)
  <!-- ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif) -->
