@@ -29,4 +29,5 @@
 
 
 
-![gitartwork](gitartwork.svg)
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/Abubakr0000/Abubakr0000/blob/output/github-contribution-grid-snake.gif)
