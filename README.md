@@ -28,6 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abubakr0000&show_icons=true&locale=en" alt="Abubakr0000" /></p>
 
 
-
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Abubakr0000/Abubakr0000/blob/output/github-contribution-grid-snake.gif)
+![gitartwork](gitartwork.svg)
