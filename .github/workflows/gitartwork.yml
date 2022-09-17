@@ -15,4 +15,4 @@ jobs:
             user_name: Abubakr
             # Text on contribution graph 
             text: ABUBAKR
-       - uses: jasineri/simple-push-action@v1
+       - uses: Abubakr0000/simple-push-action@v1
