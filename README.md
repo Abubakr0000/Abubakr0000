@@ -30,4 +30,4 @@
 
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Abubakr0000/Abubakr0000/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Abubakr0000/Abubakr0000/.github/workflows/github-contribution-grid-snake.gif)
